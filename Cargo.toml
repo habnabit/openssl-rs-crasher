@@ -1,0 +1,9 @@
+[package]
+name = "openssl-rs-crasher"
+version = "0.1.0"
+authors = ["Aaron Gallagher <_@habnab.it>"]
+edition = "2018"
+
+[dependencies]
+grpcio = "0.4.4"
+openssl = "0.10.20"
